@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+.venv
+venv/
+.env
+*.log
+
+# ВАЖНО: Секреты никогда в git!
+*token*.txt
+*secret*.txt
